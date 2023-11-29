@@ -1,4 +1,4 @@
-#!C:\Users\ANGEL-PC\Documents\NOLAB\Python\part-2\venv\Scripts\python.exe
+#!C:\Users\ANGEL-PC\Documents\NOLAB\Python\Python scrapyy\venv\Scripts\python.exe
 
 import sys
 import json
